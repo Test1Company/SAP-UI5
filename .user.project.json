@@ -1,0 +1,19 @@
+{
+  "run": [
+    {
+      "filePath": "/SAP-UI5-2/index.html",
+      "previewMode": 0,
+      "dataMode": 1,
+      "workspace": "withoutWorkspace",
+      "ui5ActiveVersion": null,
+      "ui5VerSource": null,
+      "isDefaultVersion": 0,
+      "urlParameters": [],
+      "_metadata": {
+        "runnerId": "webapprunner",
+        "id": 4926953,
+        "displayName": "New Web Application 5"
+      }
+    }
+  ]
+}
